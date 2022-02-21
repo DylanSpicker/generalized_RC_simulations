@@ -7,7 +7,7 @@ source("R/functions.R")
 source("R/corrections/generalized_rc.R")
 source("R/corrections/generalized_simex.R")
 source("R/corrections/standard_simex.R")
-source("R/corrections/standard_rc.R")
+source("R/corrections/standard_RC.R")
 
 source("R/simulation_1/data_generation.R")
 source("R/simulation_1/model_fit.R")
