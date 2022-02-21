@@ -1,0 +1,1 @@
+expit <- function(x){ (1+exp(-x))^(-1) }
